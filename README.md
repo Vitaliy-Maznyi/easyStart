@@ -1,5 +1,4 @@
-Test assignment for EasyStartIn.IT
----
+##Test assignment for EasyStartIn.IT
 
 #Task 1
 To run task 1:
@@ -26,6 +25,7 @@ Second timestamp:
 ###Output
 **`1 day 1 hour 31 minutes`**
 
+---
 #Task 2
 To run task 2:
 
